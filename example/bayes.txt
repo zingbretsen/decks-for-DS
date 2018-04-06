@@ -1,0 +1,2 @@
+"Bayes Theorem:<br>[latex]$P(H \mid E) =$[/latex]";[latex]$\frac{P(E \mid H)} {P(E)} P(H)$[/latex]
+"In Bayes Theorem:<br><br>[latex]$P(H \mid E) = \frac{P(E \mid H)} {P(E)} P(H)$[/latex]<br><br>[latex]$P(H \mid E)$[/latex] is the ______";Posterior Distribution
