@@ -1,0 +1,2 @@
+Goodhart's Law<div><br /></div><div>(informal) When a measure becomes a target, it ceases to be a good measure.</div><div><br /></div><div>(formal) Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.</div><div><br /></div><div>Ex: Cobra Effect, Cambell's law.</div>		
+Hawthorne Effect<div><br /></div><div>The alteration of behavior by the subjects of a study due to their awareness of being observed.</div>		
